@@ -1,2 +1,2 @@
-# vue-file-upload
-基于七牛云的vue图片上载组件
+# 盖浇博客后台
+https://github.com/pkjoebinbin/Blog
